@@ -1,5 +1,5 @@
 # about-me
-- I'm currently studying at IT DEL
+- I'm currently studying at [IT DEL](https://www.del.ac.id/)
 - How to reach me : oloanngln03@gmail.com
 - Telephone : 081362817992
 
